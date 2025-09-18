@@ -1,0 +1,19 @@
+{
+    "name": "ru.leopotam.ecsproto-qol",
+    "author": "Leopotam",
+    "displayName": "LeoECS Proto QoL",
+    "description": "LeoECS Proto QoL - набор расширений для LeoECS Proto, призванных улучшить \"качество жизни\" (Quality of Life) разработчика.",
+    "unity": "2021.3",
+    "version": "2025.9.4",
+    "keywords": [
+        "leoecs",
+        "proto",
+        "ecs",
+        "performance"
+    ],
+    "dependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "https://gitverse.ru/leopotam/ecsproto-qol.git"
+    }
+}
